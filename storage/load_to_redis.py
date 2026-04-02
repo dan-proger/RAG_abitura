@@ -9,7 +9,7 @@ r = redis.Redis(
     decode_responses=True
 )
 
-# ✅ ожидание Redis
+#  ожидание Redis
 for i in range(10):
     try:
         if r.ping():
@@ -27,7 +27,7 @@ FILE_PATH = os.path.join(BASE_DIR, "..", "chunks", "doc_id_chunks.json")
 with open(FILE_PATH, "r", encoding="utf-8") as f:
     chunks = json.load(f)
 
-# ✅ проверка ДО загрузки
+#  проверка ДО загрузки
 if r.exists(f"chunk:{chunks[0]['id']}"):
     print("Данные уже загружены")
     exit()
