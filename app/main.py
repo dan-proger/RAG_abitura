@@ -4,7 +4,7 @@ import numpy as np
 from scipy.spatial.distance import cdist
 
 # импорт твоего Embedder
-from assistent_class import Embedder  # <-- замени на имя файла
+from assistent_class import Embedder 
 
 # Redis подключение
 r = redis.Redis(
