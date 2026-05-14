@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cq_1",
+    "question": "Какие документы нужны для поступления в вуз после 11 класса?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1"]
+  },
+  {
+    "id": "cq_2",
+    "question": "Нужен ли СНИЛС при поступлении в университет?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_2", "chunk_3", "chunk_4"]
+  },
+  {
+    "id": "cq_3",
+    "question": "Сколько фотографий нужно для поступления?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_2", "chunk_3", "chunk_4"]
+  },
+  {
+    "id": "cq_4",
+    "question": "Нужно ли предоставлять результаты ЕГЭ при поступлении?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1"]
+  },
+  {
+    "id": "cq_5",
+    "question": "Какие документы нужны для поступления в магистратуру?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_2"]
+  },
+  {
+    "id": "cq_6",
+    "question": "Какие документы нужны для поступления в колледж (СПО)?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_3"]
+  },
+  {
+    "id": "cq_7",
+    "question": "Какие документы нужны для поступления в аспирантуру?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_4"]
+  },
+  {
+    "id": "cq_8",
+    "question": "Нужен ли военный билет при поступлении?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_2", "chunk_4"]
+  },
+  {
+    "id": "cq_9",
+    "question": "Какие документы подтверждают льготы при поступлении?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_3"]
+  },
+  {
+    "id": "cq_10",
+    "question": "Нужна ли медицинская справка при поступлении и для каких специальностей?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1"]
+  },
+  {
+    "id": "cq_11",
+    "question": "Какие документы нужны для целевого обучения?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_2", "chunk_3"]
+  },
+  {
+    "id": "cq_12",
+    "question": "Какие документы нужны для получения дополнительных баллов при поступлении?",
+    "source": "documents_required_for_admission.md",
+    "relevant_chunks": ["chunk_1", "chunk_2", "chunk_3", "chunk_4"]
+  }
+]
